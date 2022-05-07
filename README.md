@@ -3,7 +3,7 @@
 ## Ahmed Osama Fawzy
 ## Student at FCAI at Cairo University
 ## life at Elharam , Giza , Egypt
-## Front End developer
+## Full Stack developer
 ## Works With: 
 ### Html-5
 ### Pug.js
@@ -16,3 +16,13 @@
 ### Vue.js
 ### Ajax 
 ### Json 
+### Gulp
+### Jest
+### Php
+### Laravel 
+### My Sql
+### Python 
+### Flask
+### SQlite
+### CPP
+### 
